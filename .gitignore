@@ -1,0 +1,12 @@
+"# Python bytecode files" 
+"*.pyc" 
+"# IDE-specific files" 
+".idea/*"   # For IntelliJ IDEA (adjust for other IDEs)
+"# Virtual environment files" 
+"venv/*"   # For virtual environments
+".venv/*"   # For alternative virtualenv naming
+"# Temporary files" 
+"*.log" 
+"__pycache__/*" 
+"# Local configuration files" 
+".env"   # Example for environment variables
