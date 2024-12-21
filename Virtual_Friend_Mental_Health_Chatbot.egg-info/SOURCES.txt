@@ -1,0 +1,9 @@
+README.md
+setup.py
+Virtual_Friend_Mental_Health_Chatbot.egg-info/PKG-INFO
+Virtual_Friend_Mental_Health_Chatbot.egg-info/SOURCES.txt
+Virtual_Friend_Mental_Health_Chatbot.egg-info/dependency_links.txt
+Virtual_Friend_Mental_Health_Chatbot.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
